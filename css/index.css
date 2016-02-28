@@ -1,0 +1,72 @@
+html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*first section*/
+section#index-header {
+    background-color: black;
+    padding: 40px 0px;
+}
+
+#index-header-background {
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    background-image: url("../images/crest_black_background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#index-title {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+}
+
+/*second section*/
+section#index-section-2 {
+    margin: 0;
+    padding: 100px 0px;
+}
+
+#sec2-tag-line {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#sec2-tilt-link {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #ababab;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/*third section*/
+/*section#index-section-3 {
+    margin: 0;
+    padding: 200px 0px;
+    background-color: #ababab;
+}*/
