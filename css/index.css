@@ -52,6 +52,19 @@ section#index-section-2 {
     font-style: italic;
 }
 
+.index-details {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    padding: 5px 0px;
+}
+
+.index-details .strong {
+    font-style: bold;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+
 #sec2-tilt-link {
     margin-left: auto;
     margin-right: auto;
