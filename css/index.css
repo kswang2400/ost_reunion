@@ -68,18 +68,16 @@ section#index-section-2 {
 #sec2-tilt-link {
     margin-left: auto;
     margin-right: auto;
-    width: 100px;
+    width: 500px;
     height: 30px;
+    background-color: #eee;
     border-radius: 5px;
-    background-color: #ababab;
     margin-top: 40px;
     text-align: center;
-    padding-top: 10px;
+    font-size: 24px;
+    padding: 10px 20px;
 }
 
-/*third section*/
-/*section#index-section-3 {
-    margin: 0;
-    padding: 200px 0px;
-    background-color: #ababab;
-}*/
+.link-text {
+    color: green;
+}
