@@ -16,6 +16,24 @@ a {
     text-decoration: none;
 }
 
+.fa-omega:before {
+    font-size: 50px;
+    font-weight: 100;
+    content: '\03A9';
+}
+
+.fa-sigma:before {
+    font-size: 50px;
+    font-weight: 100;
+    content: '\03A3';
+}
+
+.fa-tau:before {
+    font-size: 50px;
+    font-weight: 100;
+    content: '\03A4';
+}
+
 /*first section*/
 section#index-header {
     background-color: black;
