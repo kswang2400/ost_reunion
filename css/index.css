@@ -34,6 +34,10 @@ a {
     content: '\03A4';
 }
 
+#one {
+    background-color: #444;
+}
+
 /*first section*/
 section#index-header {
     background-color: black;
