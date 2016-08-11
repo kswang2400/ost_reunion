@@ -103,3 +103,13 @@ section#index-section-2 {
 .link-text {
     color: green;
 }
+
+.actions {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.inner .donation-section {
+    width: 500px;
+    margin: 0 auto;
+}
